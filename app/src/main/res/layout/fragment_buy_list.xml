@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Buy_list">
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="All Delete"
+      android:id="@+id/all_delete"
+      android:layout_gravity="center"
+      android:layout_margin="7dp"
+      android:textColor="@color/purple_500"
+      android:textSize="20dp">
+
+  </TextView>
+  <androidx.recyclerview.widget.RecyclerView
+      android:id="@+id/buy_recyclerview"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      tools:listitem="@layout/buy_demoo"
+      >
+      
+  </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

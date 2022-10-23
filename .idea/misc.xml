@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Admiin/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.313" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/activity_home.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/buy_demoo.xml" value="0.30104166666666665" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/event_demo.xml" value="0.33" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/event_list_demo.xml" value="0.30104166666666665" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_event_admin_demo.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_event_list.xml" value="0.30104166666666665" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_event_notification_list.xml" value="0.2033514492753623" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_home_fragment.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_nf.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_result_fragment.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_topup_admin.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_topup_fragment.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_topup_notification.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/fragment_w_d_list.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/people_demo.xml" value="0.23324275362318841" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/set_coin_alartdaiologe.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/smsalartdailoge.xml" value="0.30104166666666665" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/topup_demo.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/toup_notification_demo.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/layout/wd_list_demo.xml" value="0.23007246376811594" />
+        <entry key="..\:/Project/Admiin/app/src/main/res/menu/bottom_menu.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/activity_admin_login.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/activity_home.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/activity_main.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/buy_demo.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/buy_demoo.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/buy_recyceler_view_demo.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_admin__settings.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_buy_list.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_home_fragment.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_nf.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_notification.xml" value="0.14515318935208438" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_result.xml" value="0.296875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_result_fragment.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_topup_admin.xml" value="0.27943840579710144" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_topup_fragment.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_topup_notification.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/fragment_w_d_list.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/people_demo.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/set_coin_alartdaiologe.xml" value="0.14515318935208438" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/topup_alartdialoge.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/topup_demo.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/toup_notification_demo.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/layout/wd_list_demo.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Admiin/app/src/main/res/menu/bottom_menu.xml" value="0.30104166666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

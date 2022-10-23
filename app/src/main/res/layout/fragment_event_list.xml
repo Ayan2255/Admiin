@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Event_list">
+<Button
+    android:id="@+id/event_time_delete"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Delete all"
+    android:textColor="@color/black"
+    android:background="@color/white"
+    android:layout_gravity="center"
+    android:textStyle="bold"
+    >
+
+</Button>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/eventRecycelerview"
+        tools:listitem="@layout/event_list_demo">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#16213E"
+    android:id="@+id/topup"
+    android:orientation="vertical"
+tools:context=".Topup_fragment">
+
+    <Button
+        android:id="@+id/topup_add"
+        style="@style/Widget.Neumorph.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/singin_edit_text_backgraownd"
+        android:text="ADD"
+        android:textColor="@color/white"
+        android:textSize="16dp">
+
+    </Button>
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/topup_recyclerview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:listitem="@layout/topup_demo"
+    />
+
+
+</LinearLayout>

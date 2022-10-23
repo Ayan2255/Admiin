@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/wd_layout"
+    android:background="@color/black"
+    android:layout_margin="5dp"
+    >
+
+    <TextView
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:id="@+id/wd_date"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="date"
+        android:textColor="@color/white"
+        >
+
+    </TextView>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/wd_profile_image"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/f"
+        android:layout_weight="1"
+        app:civ_border_width="2dp"
+        app:civ_border_color="#FF000000"/>
+
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/wd_number"
+         android:text="Number"
+         android:layout_weight="1"
+         android:textColor="@color/white"
+         android:gravity="center"
+         android:layout_gravity="center"
+         android:textSize="25dp"
+
+         >
+
+
+     </TextView>
+</LinearLayout>
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:layout_marginTop="10dp"
+     android:layout_marginBottom="20dp"
+     >
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:id="@+id/wd_name"
+         android:gravity="center"
+         android:textSize="25dp"
+         android:text="Name"/>
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:gravity="center"
+         android:id="@+id/wd_taka"
+         android:layout_weight="1"
+         android:textSize="20dp"
+         android:text="Taka"/>
+ </LinearLayout>
+
+</LinearLayout>

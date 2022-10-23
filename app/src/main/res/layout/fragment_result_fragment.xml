@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/people_layout"
+    android:background="#0F3460"
+    android:orientation="vertical"
+    tools:context=".Result_fragment">
+
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/people_recyclerview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:listitem="@layout/people_demo"
+    >
+
+</androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>
